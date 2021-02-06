@@ -1,7 +1,10 @@
 
 # shake
 
-Note: This is not hvh ready and wont be for a while
+Notes: 
+This is not hvh ready and wont be for a while<br />
+Updates bi-weekly<br />
+If you find issues or wish to suggest features create an issue<br />
 
 # Todo:
 - [x] Finish menu visuals
@@ -9,11 +12,6 @@ Note: This is not hvh ready and wont be for a while
 - [x] Add NoSpread
 - [x] Add ESP things
 - [ ] Fix Issues
-
-# Known Issues:
-- [x] Crashing when player joins late (caused by esp)
-- [x] Aimbot not seeing people behind
-- [x] Menu not resiszing for host tab
 
 # Contributers
 ***Kat maker of the project<br />***
