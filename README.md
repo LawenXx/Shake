@@ -1,7 +1,7 @@
 
 # shake
 
-Notes: 
+Notes: <br />
 This is not hvh ready and wont be for a while<br />
 Updates bi-weekly<br />
 If you find issues or wish to suggest features create an issue<br />
