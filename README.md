@@ -16,7 +16,7 @@ Note: This is not hvh ready and wont be for a while
 - [x] Menu not resiszing for host tab
 
 # Contributers
-***Kat maker of the projects<br />***
+***Kat maker of the project<br />***
 ***Birb project manager<br />***
 ***Reeko base maker <br />*** 
 
