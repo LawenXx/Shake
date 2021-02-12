@@ -2,8 +2,8 @@
 # shake
 
 Im aware of error synchronzing game settings<br />
-Bypass it by injecting in game<br />
-Updates bi-weekly<br />
+Bypass it by injecting in game<br /><br />
+Updates bi-weekly<br /><br />
 If you find issues or wish to suggest features create an issue<br />
 
 # Games Planned:
