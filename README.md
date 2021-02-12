@@ -1,8 +1,8 @@
 
 # shake
 
-Notes: <br />
-This is not hvh ready and wont be for a while<br />
+Im aware of error synchronzing game settings<br />
+Bypass it by injecting in game<br />
 Updates bi-weekly<br />
 If you find issues or wish to suggest features create an issue<br />
 
