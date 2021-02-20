@@ -10,7 +10,7 @@ If you find issues or wish to suggest features create an issue<br />
 - [ ] Black Ops
 - [x] Black Ops 2
 - [x] Black Ops 3
-- [ ] Ghost
+- [x] Ghost
 - [ ] Modern Warfare 2
 - [ ] Modern Warfare 3
 
